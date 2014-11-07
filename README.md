@@ -1,6 +1,6 @@
 DataManipulation
 ================
-It performs various operations on data mostly contained in List<String>, along with some other file operations. 
+It performs various operations on data mostly contained in List of Strings, along with some other file operations. 
 
 In specific it performs that following: 
 
